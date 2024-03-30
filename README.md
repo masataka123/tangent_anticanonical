@@ -6,7 +6,7 @@
 (大阪公立大学 杉本キャンパス 理学部E棟大講究室 E408)
 
 ## Speakers
-- TBA
+- To Be Announced
 
 <!-- 
 ## Schedule
@@ -57,14 +57,14 @@ Here is a [map of JR train](https://masataka123.github.io/tangent_anticanonical/
 In this map, "R26" denotes Sugimotocho Station (杉本町駅).
 
 It takes 5 minites on foot from Sugimoto-cho Station to the conference room.
-The map of Faculty of Science is [here](https://masataka123.github.io/tangent_anticanonical/material/sugimoto.png)
+The map of Faculty of Science is [here](https://masataka123.github.io/tangent_anticanonical/material/sugimoto.png).
 In this map, "12E" denotes Faculty of Science, Bldg. E.
-Room E408 is located near the elevator on the 4th floor of Faculty of Science, Bldg. E
+Room E408 is located near the elevator on the 4th floor of Faculty of Science, Bldg. E.
 
  If you need further assistance (for example, how to get to Sugimotocho Station from Kansai International Airport), please refer to [this link](https://www.omu.ac.jp/orp/ocami-en/about/directions/).
 
 ## Other informations
-There is a hotel around Tennoji (天王寺) or Nishinari (西成) where you can stay for around 3,000 yen.  
+- There is a hotel around Tennoji (天王寺) or Nishinari (西成) where you can stay for around 3,000 yen.  
 However, it is not a  good hotel, so we do not recommend you book it. 
  
 ## Organizers
