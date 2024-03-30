@@ -53,7 +53,7 @@ Here is the PDF file of program and abstracts. [Program](https://masataka123.git
 ## Access
 
 Sugimotocho Station (杉本町駅)  is the nearest station to Osaka Metropolitan University (Sugimoto Campus).
-Here is a [map of JR train](https://masataka123.github.io/tangent_anticanonical/material/hanwa/pdf).
+Here is a [map of JR train](https://masataka123.github.io/tangent_anticanonical/material/hanwa.pdf).
 In this map, "R26" denotes Sugimotocho Station (杉本町駅).
 Please take a local train, because express trains do not stop at Sugimoto-cho station.
 
