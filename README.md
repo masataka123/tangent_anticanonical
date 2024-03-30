@@ -71,8 +71,8 @@ However, it is not a  good hotel, so we do not recommend you book it.
 - [Sho Ejiri](https://researchmap.jp/shoejiri?lang=en) (Osaka Metropolitan University)
 - [Masataka Iwai](https://masataka123.github.io/blog3_e/) (Osaka University)
 - [Takayuki Koike](https://tkoike.com) (Osaka Metropolitan University)
-- [Shin-ichi Matsumura](https://sites.google.com/view/math-matsumura/home) (Kyushu University)
-- [Kenta Sato](https://sites.google.com/view/ktsato/homeeng) (Tohoku University)
+- [Shin-ichi Matsumura](https://sites.google.com/view/math-matsumura/home) (Tohoku University)
+- [Kenta Sato](https://sites.google.com/view/ktsato/homeeng) (Kyushu University)
 
 If you have any questions concerning this conference, please contact Masataka Iwai (masataka[at]math.sci.osaka-u.ac.jp).
 
