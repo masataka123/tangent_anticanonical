@@ -53,12 +53,12 @@ Here is the PDF file of program and abstracts. [Program](https://masataka123.git
 ## Access
 
 Sugimotocho Station (杉本町駅)  is the nearest station to Osaka Metropolitan University (Sugimoto Campus).
-Here is a [map of JR train](https://masataka123.github.io/Kobayashi_Hitchin/material/hanwa/pdf).
+Here is a [map of JR train](https://masataka123.github.io/tangent_anticanonical/material/hanwa/pdf).
 In this map, "R26" denotes Sugimotocho Station (杉本町駅).
 Please take a local train, because express trains do not stop at Sugimoto-cho station.
 
 It takes 5 minites on foot from Sugimoto-cho Station to the conference room.
-The map of Faculty of Science is [here](https://masataka123.github.io/Kobayashi_Hitchin/material/sugimoto.png)
+The map of Faculty of Science is [here](https://masataka123.github.io/tangent_anticanonical/material/sugimoto.png)
 In this map, "12E" denotes Faculty of Science, Bldg. E
 Room E408 is located near the elevator on the 4th floor of Faculty of Science, Bldg. E
 
@@ -69,7 +69,11 @@ There is a hotel around Tennoji (天王寺) or Nishinari (西成) where you can 
 However, it is not a  good hotel, so we do not recommend you book it. 
  
 ## Organizers
+- [Sho Ejiri](https://researchmap.jp/shoejiri?lang=en) (Osaka Metropolitan University)
 - [Masataka Iwai](https://masataka123.github.io/blog3_e/) (Osaka University)
+- [Takayuki Koike](https://tkoike.com) (Osaka Metropolitan University)
+- [Shin-ichi Matsumura](https://sites.google.com/view/math-matsumura/home) (Kyushu University)
+- [Kenta Sato](https://sites.google.com/view/ktsato/homeeng) (Tohoku University)
 
 If you have any questions concerning this conference, please contact Masataka Iwai (masataka[at]math.sci.osaka-u.ac.jp).
 
@@ -78,7 +82,8 @@ This conference is supported by "Osaka Central Advanced Mathematical Institute (
 
 ## Supports 2 (KAKENHI)
 - JSPS KAKENHI 22K13907 Grant-in-Aid for Early Career Scientists. (Iwai)
-
+- JSPS KAKENHI  22KK0232 Fund for the Promotion of Joint International Research (Fostering Joint International Research (A)) (Koike)
+- JSPS KAKENHI 21H00976 Grant-in-Aid for Scientific Research (B) (Matsumura)
 
 
 
