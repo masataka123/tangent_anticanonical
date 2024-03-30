@@ -58,7 +58,7 @@ In this map, "R26" denotes Sugimotocho Station (杉本町駅).
 
 It takes 5 minites on foot from Sugimoto-cho Station to the conference room.
 The map of Faculty of Science is [here](https://masataka123.github.io/tangent_anticanonical/material/sugimoto.png)
-In this map, "12E" denotes Faculty of Science, Bldg. E
+In this map, "12E" denotes Faculty of Science, Bldg. E.
 Room E408 is located near the elevator on the 4th floor of Faculty of Science, Bldg. E
 
  If you need further assistance (for example, how to get to Sugimotocho Station from Kansai International Airport), please refer to [this link](https://www.omu.ac.jp/orp/ocami-en/about/directions/).
