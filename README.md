@@ -72,6 +72,7 @@ However, it is not a  good hotel, so we do not recommend you book it.
 - [Masataka Iwai](https://masataka123.github.io/blog3_e/) (Osaka University)
 - [Takayuki Koike](https://tkoike.com) (Osaka Metropolitan University)
 - [Shin-ichi Matsumura](https://sites.google.com/view/math-matsumura/home) (Tohoku University)
+- [Yohsuke Matsuzawa](https://sites.google.com/brown.edu/yohsukematsuzawa/home) (Osaka Metropolitan University)
 - [Kenta Sato](https://sites.google.com/view/ktsato/homeeng) (Kyushu University)
 
 If you have any questions concerning this conference, please contact Masataka Iwai (masataka[at]math.sci.osaka-u.ac.jp).
@@ -83,7 +84,7 @@ This conference is supported by "Osaka Central Advanced Mathematical Institute (
 - JSPS KAKENHI 22K13907 Grant-in-Aid for Early Career Scientists. (Iwai)
 - JSPS KAKENHI  22KK0232 Fund for the Promotion of Joint International Research (Fostering Joint International Research (A)) (Koike)
 - JSPS KAKENHI 21H00976 Grant-in-Aid for Scientific Research (B) (Matsumura)
-
+- JSPS KAKENHI 22K13903 Grant-in-Aid for Early-Career Scientists (Matsuzawa)
 
 
 <!-- 
