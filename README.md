@@ -6,7 +6,42 @@
 (大阪公立大学 杉本キャンパス 理学部E棟大講究室 E408)
 
 ## Speakers
-- To Be Announced
+- Sho Tanimoto (Nagoya University)
+- Guolei Zhong (Institute for Basic Science Center for Complex Geometry (IMS-CCG))
+- Tatsuro Kawakami (Kyoto University)
+- Hirotaka Onuki (the University of Tokyo)
+- Taro Yoshino (the University of Tokyo)
+- Yuta Takahashi (Chuo University)
+- Hiromu Tanaka (the University of Tokyo)
+- Takuzo Okada (Kyushu University)
+- Juanyong Wang (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
+- Akihiro Kanemitsu (Tokyo Metropolitan University)
+- Fuetaro Yobuko (Tokyo University of Science)
+
+
+## Schedule
+
+### 17th September (Tuesday)
+
+1. 13:00--14:00 TBA
+2. 14:30--15:30 TBA
+3. 16:00--17:00 TBA
+
+### 18th September (Wednesday)
+1. 10:00--11:00 TBA
+2. 11:30--12:30 TBA
+3. 14:30--15:30 TBA
+4. 16:00--17:00 TBA
+
+### 19th September (Thursday)
+1. 10:00--11:00 TBA
+2. 11:30--12:30 TBA
+3. 14:30--15:30 TBA
+4. 16:00--17:00 TBA
+
+### 20th September (Friday)
+1. 10:00--11:00 TBA
+2. 11:30--12:30 TBA
 
 <!-- 
 ## Schedule
