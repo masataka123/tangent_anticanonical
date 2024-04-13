@@ -17,7 +17,7 @@
 - Juanyong Wang (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
 - Akihiro Kanemitsu (Tokyo Metropolitan University)
 - Fuetaro Yobuko (Tokyo University of Science)
-
+- Wahei Hara (Kavli IPMU, The University of Tokyo)
 
 ## Schedule
 
