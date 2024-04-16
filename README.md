@@ -97,9 +97,7 @@ In this map, "12E" denotes Faculty of Science, Bldg. E.
 Room E408 is located near the elevator on the 4th floor of Faculty of Science, Bldg. E.
 
  If you need further assistance (for example, how to get to Sugimotocho Station from Kansai International Airport), please refer to [this link](https://www.omu.ac.jp/orp/ocami-en/about/directions/).
-
-## Other informations
-- There is a hotel around Tennoji (天王寺) or Nishinari (西成) where you can stay for around 3,000 yen. However, it is not a  good hotel, so we do not recommend you book it. 
+ 
  
 ## Organizers
 - [Sho Ejiri](https://researchmap.jp/shoejiri?lang=en) (Osaka Metropolitan University)
@@ -122,6 +120,8 @@ This conference is supported by "Osaka Central Advanced Mathematical Institute (
 
 
 <!-- 
+## Other informations
+- There is a hotel around Tennoji (天王寺) or Nishinari (西成) where you can stay for around 3,000 yen. However, it is not a  good hotel, so we do not recommend you book it. 
 
 ## -- Hodge theory and vanishing theorem --
 Science Buildingsへの行き方は二つあります
