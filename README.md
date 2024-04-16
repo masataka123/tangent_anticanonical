@@ -6,19 +6,19 @@
 (大阪公立大学 杉本キャンパス 理学部E棟大講究室 E408)
 
 ## Speakers
-- Sho Tanimoto (Nagoya University)
-- Guolei Zhong (Institute for Basic Science Center for Complex Geometry (IMS-CCG))
+- Wahei Hara (Kavli IPMU, The University of Tokyo)
+- Akihiro Kanemitsu (Tokyo Metropolitan University)
 - Tatsuro Kawakami (Kyoto University)
+- Jie Liu (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
+- Takuzo Okada (Kyushu University)
 - Hirotaka Onuki (the University of Tokyo)
-- Taro Yoshino (the University of Tokyo)
 - Yuta Takahashi (Chuo University)
 - Hiromu Tanaka (the University of Tokyo)
-- Takuzo Okada (Kyushu University)
+- Sho Tanimoto (Nagoya University)
 - Juanyong Wang (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
-- Akihiro Kanemitsu (Tokyo Metropolitan University)
 - Fuetaro Yobuko (Tokyo University of Science)
-- Wahei Hara (Kavli IPMU, The University of Tokyo)
-- Jie Liu (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
+- Taro Yoshino (the University of Tokyo)
+- Guolei Zhong (Institute for Basic Science Center for Complex Geometry (IMS-CCG))
 
 ## Schedule
 
