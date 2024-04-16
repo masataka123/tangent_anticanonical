@@ -18,7 +18,7 @@
 - Juanyong Wang (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
 - Fuetaro Yobuko (Tokyo University of Science)
 - Taro Yoshino (the University of Tokyo)
-- Guolei Zhong (Institute for Basic Science Center for Complex Geometry (IMS-CCG))
+- Guolei Zhong (Institute for Basic Science Center for Complex Geometry (IBS-CCG))
 
 ## Schedule
 
