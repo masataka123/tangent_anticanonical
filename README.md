@@ -15,7 +15,7 @@
 - Yuta Takahashi (Chuo University)
 - Hiromu Tanaka (the University of Tokyo)
 - Sho Tanimoto (Nagoya University)
-- Juanyong Wang (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS)) *online talk
+- Juanyong Wang (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS)) **online talk**
 - Fuetaro Yobuko (Tokyo University of Science)
 - Taro Yoshino (the University of Tokyo)
 - Guolei Zhong (Institute for Basic Science Center for Complex Geometry (IBS-CCG))
