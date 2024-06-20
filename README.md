@@ -115,12 +115,14 @@ This conference is supported by "Osaka Central Advanced Mathematical Institute (
 
 ## Supports 2 (KAKENHI)
 - JSPS KAKENHI 22K13907 Grant-in-Aid for Early Career Scientists. (Iwai)
+
+<!-- 
 - JSPS KAKENHI  22KK0232 Fund for the Promotion of Joint International Research (Fostering Joint International Research (A)) (Koike)
 - JSPS KAKENHI 21H00976 Grant-in-Aid for Scientific Research (B) (Matsumura)
 - JSPS KAKENHI 22K13903 Grant-in-Aid for Early-Career Scientists (Matsuzawa)
 
 
-<!-- 
+
 ## Other informations
 - There is a hotel around Tennoji (天王寺) or Nishinari (西成) where you can stay for around 3,000 yen. However, it is not a  good hotel, so we do not recommend you book it. 
 
