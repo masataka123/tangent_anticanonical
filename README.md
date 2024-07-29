@@ -11,13 +11,13 @@
 - Tatsuro Kawakami (Kyoto University)
 - Jie Liu (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
 - Takuzo Okada (Kyushu University)
-- Hirotaka Onuki (the University of Tokyo)
+- Hirotaka Onuki (The University of Tokyo)
 - Yuta Takahashi (Chuo University)
-- Hiromu Tanaka (the University of Tokyo)
+- Hiromu Tanaka (The University of Tokyo)
 - Sho Tanimoto (Nagoya University)
 - Juanyong Wang (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS)) **online talk**
 - Fuetaro Yobuko (Tokyo University of Science)
-- Taro Yoshino (the University of Tokyo)
+- Taro Yoshino (The University of Tokyo)
 - Guolei Zhong (Institute for Basic Science Center for Complex Geometry (IBS-CCG))
 
 ## Schedule
@@ -53,7 +53,7 @@
 Campana rational connectedness and weak approximation
 2. 14:30--15:30 **Takuzo Okada (Kyushu University)** <br>
 Birationally solid Fano 3-fold hypersurfaces
-3. 16:00--17:00 **Taro Yoshino (the University of Tokyo)** <br>
+3. 16:00--17:00 **Taro Yoshino (The University of Tokyo)** <br>
 Stable rationality of hypersurfaces in Grassmannian varieties
 
 ### 18th September (Wednesday)
@@ -70,11 +70,11 @@ Geometry (IBS-CCG))** <br>
 Projective varieties with almost nef tangent sheaves and its dynamical application
 
 ### 19th September (Thursday)
-1. 10:00--11:00 **Hirotaka Onuki (the University of Tokyo)** <br>
+1. 10:00--11:00 **Hirotaka Onuki (The University of Tokyo)** <br>
 On the effective generation of direct images of pluricanonical bundles in mixed characteristic
 2. 11:30--12:30 **Fuetaro Yobuko (Tokyo University of Science)** <br>
 Quasi-F-splitting and positivity in positive characteristic
-3. 14:30--15:30 **Hiromu Tanaka (the University of Tokyo)** <br>
+3. 14:30--15:30 **Hiromu Tanaka (The University of Tokyo)** <br>
 Classification of smooth Fano threefolds in positive characteristic
 4. 16:00--17:00 **Yuta Takahashi (Chuo University)** <br>
 Fano 4-folds with nef tangent bundle in positive characteristic
