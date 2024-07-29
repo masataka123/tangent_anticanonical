@@ -1,0 +1,380 @@
+\documentclass[dvipdfmx,a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+%\usepackage[dvipdfmx]{hyperref} %リンクを有効にする
+\usepackage{url} %同上
+\usepackage{amsmath,amssymb} %もちろん
+\usepackage{amsfonts,amsthm,mathtools} %もちろん
+\usepackage{braket,physics} %あると便利なやつ
+\usepackage{bm} %ラプラシアンで使った
+\usepackage[top=30truemm,bottom=20truemm,left=25truemm,right=25truemm]{geometry} %余白設定
+\usepackage{latexsym} %ごくたまに必要になる
+\renewcommand{\kanjifamilydefault}{\gtdefault}
+\usepackage{otf} %宗教上の理由でmin10が嫌いなので
+
+
+\usepackage[all]{xy}
+\usepackage{amsthm,amsmath,amssymb,comment}
+\usepackage{amsmath}    % \UTF{00E6}\UTF{0095}°\UTF{00E5}\UTF{00AD}\UTF{00A6}\UTF{00E7}\UTF{0094}¨
+\usepackage{amssymb}  
+\usepackage{color}
+\usepackage{amscd}
+\usepackage{amsthm}  
+\usepackage{wrapfig}
+\usepackage{comment}	
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{pxrubrica}
+\usepackage{enumitem}
+\usepackage{mathrsfs} 
+\usepackage[dvipdfmx]{hyperref}
+\setstretch{1.2}
+
+\newcommand{\mathsym}[1]{{}}
+\newcommand{\unicode}[1]{{}}
+
+\newcounter{mathematicapage}
+
+
+%%%%%%%%% Theorem-like environment %%%%%%%%%%%
+%
+\theoremstyle{plain} %text of this environment is typesetted in italics
+\newtheorem{theorem}{\indent\sc Theorem}[section]
+\newtheorem{lemma}[theorem]{\indent\sc Lemma}
+\newtheorem{corollary}[theorem]{\indent\sc Corollary}
+\newtheorem{proposition}[theorem]{\indent\sc Proposition}
+\newtheorem{claim}[theorem]{\indent\sc Claim}
+\newtheorem{conjecture}[theorem]{\indent\sc Conjecture}
+%
+\theoremstyle{definition} %text of this environment is typesetted in roman letters
+\newtheorem{definition}[theorem]{\indent\sc Definition}
+\newtheorem{remark}[theorem]{\indent\sc Remark}
+\newtheorem{example}[theorem]{\indent\sc Example}
+\newtheorem{notation}[theorem]{\indent\sc Notation}
+\newtheorem{assertion}[theorem]{\indent\sc Assertion}
+\newtheorem{observation}[theorem]{\indent\sc Observation}
+\newtheorem{problem}[theorem]{\indent\sc Problem}
+\newtheorem{question}[theorem]{\indent\sc Question}
+%
+%If a theorem-like environment should not be numbered,
+%add * after \newtheorem, and delete the counter option such as [theorem].
+\newtheorem*{remark0}{\indent\sc Remark}
+%
+%%%%% Proof %%%%%
+\renewcommand{\proofname}{\indent\sc Proof.}
+%The following commands are available in the proof environment:
+%\begin{proof}
+%\end{proof}
+%The end of a proof is marked with a square.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\begin{center}
+  {\LARGE Workshop on Algebraic Geometry over complex number field or in positive characteristic}
+ 
+  {\large -Around positivity of tangent sheaves and anti-canonical divisors-}
+  %\vskip2mm{\LARGE Prospects and Open Problems \\ in Higher-dimensional Algebraic Geometry}
+  \end{center}
+  
+\vskip5mm
+\begin{flushleft}
+{ Date: 17th--20th September 2024. (2024年9月17--20日)}
+
+
+{Place: Osaka Metropolitan University (Sugimoto Campus), Faculty of Science, Bldg. E, Room E408 (4F). }
+{(大阪公立大学 杉本キャンパス 理学部E棟大講究室 E408)}
+
+\end{flushleft}
+
+
+%\footnote{ホームページ: \texttt{https://sites.google.com/site/hisashikasuyamath/workshop-on-complex-geometry-in-osaka-2023?authuser=0}}
+%\footnote{This conference is supported by Osaka City University Advanced Mathematical Institute: MEXT Joint Usage/Research Center on Mathematics and Theoretical Physics.}
+
+
+\vskip8mm
+\noindent{\Large \bf Program}
+\vskip3mm
+
+\noindent{\bf 9/17 (Tuesday)}
+\vskip1mm
+\noindent {\bf 13:00-14:00}
+{\bf Sho Tanimoto (Nagoya University)}\\
+ Campana rational connectedness and weak approximation
+\vskip3mm
+
+\noindent {\bf 14:30-15:30} 
+{\bf Takuzo Okada (Kyushu University)}\\
+Birationally solid Fano 3-fold hypersurfaces
+\vskip3mm
+
+\noindent {\bf16:00-17:00} 
+{\bf Taro Yoshino (the University of Tokyo)}\\
+Stable rationality of hypersurfaces in Grassmannian varieties
+\vskip5mm
+
+
+\noindent{\bf 9/18 (Wednesday)}
+\vskip1mm
+\noindent {\bf 10:00-11:00}
+{\bf Akihiro Kanemitsu (Tokyo Metropolitan University)}\\
+Mukai pairs and associated K3 surfaces
+\vskip3mm
+
+\noindent{\bf 11:00-11:30} 
+ Breaktime\footnote{At this time, we will take a group photo of participants.}
+\vskip3mm
+
+\noindent {\bf 11:30-12:30}
+{\bf Jie Liu (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))}\\
+Symplectic singularities arising from the algebra of symmetric tensors
+\vskip3mm
+
+\noindent {\bf 14:30-15:30} 
+{\bf Juanyong Wang (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))}\\An abundance-type result for tangent bundles of smooth Fano varieties
+\vskip3mm
+
+
+\noindent {\bf16:00-17:00} 
+{\bf Guolei Zhong (Institute for Basic Science Center for Complex Geometry (IBS-CCG))}\\
+Projective varieties with almost nef tangent sheaves and its dynamical application 
+\vskip5mm
+
+\newpage 
+
+\noindent{\bf 9/19 (Thursday)}
+\vskip1mm
+\noindent {\bf 10:00-11:00}
+{\bf Hirotaka Onuki (the University of Tokyo)}\\
+On the effective generation of direct images of pluricanonical bundles in mixed characteristic
+\vskip3mm
+
+\noindent {\bf 11:30-12:30}
+{\bf Fuetaro Yobuko (Tokyo University of Science)}\\
+Quasi-F-splitting and positivity in positive characteristic
+\vskip5mm
+
+\noindent {\bf 14:30-15:30} 
+{\bf Hiromu Tanaka (the University of Tokyo)}\\
+Classification of smooth Fano threefolds in positive characteristic
+\vskip3mm
+
+\noindent {\bf16:00-17:00} 
+{\bf Yuta Takahashi (Chuo University)}\\
+Fano 4-folds with nef tangent bundle in positive characteristic
+\vskip5mm
+
+\noindent{\bf  9/20 (Friday)}
+\vskip1mm
+\noindent {\bf 10:00-11:00}
+{\bf Wahei Hara (Kavli IPMU, The University of Tokyo)}\\
+Rank two weak Fano bundles over Fano threefolds of Picard rank one
+\vskip3mm
+
+\noindent {\bf 11:30-12:30}
+{\bf Tatsuro Kawakami (Kyoto University)}\\
+Kodaira vanishing for smooth Fano threefolds in positive characteristic
+\vskip3mm
+
+\vskip10mm
+\hspace{-22pt}
+\begin{tabular}{|c|c|c|c|c|}
+  \hline
+			  & 9/17 & 9/18&9/19 & 9/20 \\
+  \hline
+ 10:00-11:00&   & Akihiro Kanemitsu & Hirotaka Onuki & Hara Wahei \\
+  \hline
+ 11:30-12:30& \begin{tabular}{c}Sho Tanimoto\\(13:00-14:00) \end{tabular}& Jie Liu  & Fuetaro Yobuko& Tatsuro Kawakami   \\
+  \hline
+ 14:30-15:30& Takuzo Okada& Juanyong Wang & Hiromu Tanaka& \\
+  \hline
+ 16:00-17:00&  Taro Yoshino & Guolei Zhong & Yuta Takahashi &  \\
+   \hline
+\end{tabular}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{comment}
+
+\vskip10mm
+\hspace{-22pt}
+\begin{tabular}{|c|c|}
+  \hline
+			  & 9/17 \\
+  \hline
+ 13:00-14:00& Sho Tanimoto\\
+  \hline
+ 14:30-15:30& Takuzo Okada\\
+  \hline
+ 16:00-17:00&  Taro Yoshino   \\
+   \hline
+\end{tabular}
+\vskip5mm
+
+\hspace{-22pt}
+\begin{tabular}{|c|c|c|c|}
+  \hline
+			  & 9/18&9/19 & 9/20 \\
+  \hline
+ 10:00-11:00&    Akihiro Kanemitsu & Hirotaka Onuki & Hara Wahei \\
+  \hline
+ 11:30-12:30&  Jie Liu  & Fuetaro Yobuko& Tatsuro Kawakami   \\
+  \hline
+ 14:30-15:30& Juanyong Wang & Hiromu Tanaka& \\
+  \hline
+ 16:00-17:00&   Guolei Zhong & Yuta Takahashi &  \\
+   \hline
+\end{tabular}
+\end{comment}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+
+
+\newpage
+
+\noindent{\large \bf Organizers}
+\begin{itemize}
+  \setlength{\parskip}{0cm} 
+  \setlength{\itemsep}{0cm}
+\item Sho Ejiri (Osaka Metropolitan University)
+\item Masataka Iwai (Osaka University)
+\item Takayuki Koike (Osaka Metropolitan University)
+\item Shin-ichi Matsumura (Tohoku University)
+\item Yohsuke Matsuzawa (Osaka Metropolitan University)
+\item Kenta Sato (Kyushu University)
+  \end{itemize}
+  
+  
+\noindent{\large \bf Supports}
+
+This conference is supported by “Osaka Central Advanced Mathematical Institute (MEXT Promotion of Distinctive Joint Research Center Program JPMXP0723833165), Osaka Metropolitan University”.
+
+\vskip3mm
+\noindent{\large \bf Homepage}
+
+We have posted various information on our website, including how to access to the conference room.
+
+\vskip3mm
+Homepage Link: \url{https://masataka123.github.io/tangent_anticanonical/}
+
+You can also read the QR code below:
+
+\begin{figure}[htbp]
+\begin{center}
+ \includegraphics[height=50mm, width=50mm]{tangent_anticanonical.png}
+\end{center}
+\end{figure}
+
+
+
+\newpage
+
+\noindent{\Large \bf Abstract}
+\vskip3mm
+
+\noindent{\bf 9/17 (Tuesday)}
+\vskip3mm
+\noindent {\bf Sho Tanimoto (Nagoya University)}\\
+ Campana rational connectedness and weak approximation
+\vskip3mm
+Campana and Abramovich introduced the notion of Campana points which interpolate between rational points and integral points. Recently there are extensive activities on arithmetic geometry of Campana points and many conjectures have been proposed. In this talk we discuss Campana curves/sections in the geometric setting. Campana introduced the notion of Campana rational connectedness and conjectured that any klt Fano orbifold is Campana rationally connected. We prove that weak approximation at good places holds in the setting of Campana sections for any Campana rationally connected fibration. This is a generalization of theorems by Graber-Harris-Starr and Hassett-Tschinkel. A key tool to this theorem is log geometry and the notion of moduli stack of stable log maps. This is joint work with Qile Chen and Brian Lehmann. 
+\vskip5mm
+
+\noindent {\bf Takuzo Okada (Kyushu University)}\\
+Birationally solid Fano 3-fold hypersurfaces
+\vskip3mm
+A Fano variety of Picard number 1 is birationally rigid if it is the unique Mori fiber space in its birational equivalence class (up to isomorphism). Birational rigidity of a Fano variety implies the irrationality of the variety. By relaxing the “uniqueness” requirement, we introduce a notion of birational solidity which is weaker than birational rigidity but still implies irrationality of the variety. We investigate Fano 3-folds that are embedded into weighted projective 4-spaces as “quasismooth” hypersurfaces and explain the classification result of birationally solid ones which solves a conjecture posed by Abban-Cheltsov-Park.
+\vskip5mm
+
+\noindent {\bf Taro Yoshino (the University of Tokyo)}\\
+Stable rationality of hypersurfaces in Grassmannian varieties
+\vskip3mm
+In recent years, there has been a development in approaching rationality problems through motivic methods. This approach requires the explicit construction of degeneration families over curves with favorable properties. However, the specific construction is generally difficult. Nicaise and Ottem combined combinatorial methods to construct degeneration families of hypersurfaces in toric varieties and mentioned the stable rationality of a very general hypersurface in projective spaces. In this talk, we mention the following two points: First, I introduce the notion of mock toric varieties, which are generalizations of toric varieties. Second, I combinatorially construct degeneration families of hypersurfaces in mock toric varieties, and I mention the irrationality of a very general hypersurface in the complex Grassmannian variety Gr(2, n).
+\vskip5mm
+
+
+\noindent{\bf 9/18 (Wednesday)}
+\vskip3mm
+
+\noindent {\bf Akihiro Kanemitsu (Tokyo Metropolitan University)}\\
+Mukai pairs and associated K3 surfaces
+\vskip3mm
+A Mukai pair $(X,E)$ is a pair of a smooth projective variety $X$ and an ample vector bundle $E$ with $c_1(X)=c_1(E)$.
+Such pairs are completely classified when the rank of $E$ is at least $\dim X -2$.
+When the rank of $E$ is $\dim X -2$, Mukai pairs are related to K3 surfaces; the zero locus of a section of $E$ is a K3 surface.
+In this talk, we discuss the structure of these K3 surfaces from the viewpoint of their moduli.
+\vskip6mm
+
+\noindent {\bf Jie Liu (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))}\\
+Symplectic singularities arising from the algebra of symmetric tensors
+\vskip3mm
+The positivity of the tangent bundle of a projective manifold is closely related to the property of the ring of symmetric tensors, which can also be viewed as the ring of regular functions over its cotangent bundle. On the other hand, the cotangent tangent admits a natural symplectic form, which makes it a (non-compact) symplectic manifold. In this talk, I will present an idea to construct symplectic singularities via cotangent bundles and then discuss some related problems. This is based on joint work in progress with Baohua Fu.
+\vskip6mm
+
+\noindent {\bf Juanyong Wang (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))}\\
+An abundance-type result for tangent bundles of smooth Fano varieties
+\vskip3mm
+Positive curvature condition imposed on a compact Kähler manifold usually has strong restriction on its geometry. This principle has been manifested by the pioneering works of Mori (1979) and Siu-Yau (1980) on the Hartshorne-Frankel conjecture, and by the successive works of Howard-Smyth-Wu (1981), Mok-Zhong (1986) and Mok (1988) on the generalized Frankel conjecture. In Campana-Peternell (1991), they propose to study compact Kähler manifolds with nef tangent bundles, aiming at giving an algbro-geometric generalization of Mori's characterization of projective spaces by ampleness of the tangent bundles. In view of Demailly-Peternell-Schneider (1994), these manifolds are shown to be interpolations of complex tori and smooth Fano varieties with nef tangent bundles; the latter are further conjectured to be rational homogeneous, i.e. they are quotients of semi-simple linear algebraic groups by parabolic subgroups (Campana-Peternell, 1991). In this talk, I will explain our recent progress towards the Campana-Peternell conjecture: we prove that the tangent bundle is big thus semiample.
+\vskip6mm
+
+\newpage 
+
+\noindent {\bf Guolei Zhong (Institute for Basic Science Center for Complex Geometry (IBS-CCG))}\\
+Projective varieties with almost nef tangent sheaves and its dynamical application 
+\vskip3mm
+It is expected that a certain positivity of tangent sheaves would give strong restrictions on the underlying varieties. In this talk, we first study some structure properties of projective varieties with almost nef tangent sheaves. Then we give a dynamical application to describe projective varieties admitting an int-amplified endomorphism with totally invariant ramifications. More precisely, if a projective klt variety $X$ admits an int-amplified endomorphism $f$ such that outside an $f^{-1}$-invariant divisor $D$, $f$ is quasi-\'etale, then we show that there exists an $f$-equivariant quasi-\'etale Galois cover $Y\to X$ such that $Y$ admits a locally trivial fibration to an abelian variety with all the fibres being toric. This extends a theorem due to Hwang and Nakayama. The first part of this talk is based on a joint work with Masataka Iwai and Shin-ichi Matsumura.
+
+\vskip6mm
+\noindent{\bf 9/19 (Thursday)}
+\vskip3mm
+
+\noindent {\bf Hirotaka Onuki (the University of Tokyo)}\\
+On the effective generation of direct images of pluricanonical bundles in mixed characteristic
+\vskip3mm
+In characteristic zero, Popa and Schnell proved an effective global generation theorem for direct images of pluricanonical bundles as a special case of their Fujita-type conjecture. Ejiri showed an analogous result in positive characteristic. These results have been applied to the study of direct images of pluricanonical bundles. Recently, substantial progress has been made in birational geometry in mixed characteristic. In this talk, we present a mixed characteristic analog of the theorem of Popa and Schnell and that of Ejiri.
+\vskip6mm
+
+\noindent {\bf Fuetaro Yobuko (Tokyo University of Science)}\\
+Quasi-F-splitting and positivity in positive characteristic
+\vskip3mm
+F-splitting and F-regularity have been well studied in birational geometry and commutative algebra in positive characteristic. Quasi-F-splitting is an extension of F-splitting.
+In this talk, we discuss a relationship between quasi-F-splitting and positivity. The talk will contain a joint work with Tatsuro Kawakami, Teppei Takamatsu, Hiromu Tanaka, Jakub Witaszek and Shou Yoshikawa.
+\vskip6mm
+
+\noindent {\bf Hiromu Tanaka (the University of Tokyo)}\\
+Classification of smooth Fano threefolds in positive characteristic
+\vskip3mm
+In the 1980s, Mori-Mukai completed the classification of smooth Fano threefolds in characteristic zero, based on work by Iskovskikh and Shokurov. In this talk, I will explain an analogous result in positive characteristic.
+\vskip6mm
+
+\noindent {\bf Yuta Takahashi (Chuo University)}\\
+Fano 4-folds with nef tangent bundle in positive characteristic
+\vskip3mm
+The positivity of the tangent bundle is expected to represent the geometric properties of algebraic varieties. An example of this is the Hartshorne conjecture, which states that a smooth projective variety  defined over an algebraically closed field is the projective space if the tangent bundle is ample. In this talk, we will consider the Campana-Peternell conjecture which is a generalization of the Hartshorne conjecture. This states that a smooth Fano variety with nef tangent bundles are homogeneous varieties. Specifically, we introduce the classification problem of four-dimensional smooth Fano varieties with nef tangent bundles in positive characteristic. Firstly, we introduce an overview of the Campana-Peternell conjecture and main theorem. Next, we discuss the outline of this proof. This talk is based on the joint work with Kiwamu Watanabe.
+\vskip6mm
+
+\noindent{\bf 9/20 (Friday)}
+\vskip3mm
+
+\noindent {\bf Wahei Hara (Kavli IPMU, The University of Tokyo)}\\
+Rank two weak Fano bundles over Fano threefolds of Picard rank one
+\vskip3mm
+During this talk we discuss the classification problem for rank two weak Fano bundles over various Fano threefolds of Picard rank one.
+A vector bundle is said to be weak Fano if its projectivization (in the sense of Grothendieck) has the nef and big anti-canonical bundle.
+The classification problem we discuss can be regarded as a part of the classification of weak Fano 4-folds of Picard rank two,
+which is related to the study of Fano 4-folds of Picard rank one by 2-ray game, for example.
+As usual, the classification will be done by case-by-case study of each Fano threefolds of Picard rank one.
+The aim of this talk is to share a part of such studies with some general result we established to investigate weak Fano bundles.
+This is all joint work with T.Fukuoka and D.Ishikawa.
+\vskip6mm
+
+\noindent {\bf Tatsuro Kawakami (Kyoto University)}\\
+Kodaira vanishing for smooth Fano threefolds in positive characteristic
+\vskip3mm
+We prove that smooth Fano threefolds in positive characteristic satisfy Kodaira vanishing. It is well-known that Frobenius split (F-split) varieties satisfy Kodaira vanishing. However, many smooth Fano threefolds are not F-split. For this reason, we utilize quasi-F-splitting, which was originally introduced by Yobuko, as a weaker condition than usual F-splitting. In fact, we can prove that most Fano threefolds are quasi-F-split, and conclude Kodaira vanishing holds for all Fano threefolds. 
+This talk is based on joint work with Hiromu Tanaka.
+\vskip6mm
+
+\end{document}
