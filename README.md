@@ -20,9 +20,9 @@
 - Taro Yoshino (The University of Tokyo)
 - Guolei Zhong (Institute for Basic Science Center for Complex Geometry (IBS-CCG))
 
-## Schedule
 
 <!-- 
+## Schedule
 ### 17th September (Tuesday)
 
 1. 13:00--14:00 TBA
