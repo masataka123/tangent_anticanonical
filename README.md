@@ -60,7 +60,7 @@ Stable rationality of hypersurfaces in Grassmannian varieties
 ### 18th September (Wednesday)
 1. 10:00--11:00 **Akihiro Kanemitsu (Tokyo Metropolitan University)** <br>
 Mukai pairs and associated K3 surfaces
-2. 11:30--12:30 **Chi-Kang Chang (National Center for Theoretical Sciences (NCTS)) ** <br>
+2. 11:30--12:30 **Chi-Kang Chang (National Center for Theoretical Sciences (NCTS))** <br>
 TBA
 3. 14:30--15:30 **Juanyong Wang (Academy of Mathematics and Systems Science,
 Chinese Academy of Sciences (AMSS CAS))** <br>
