@@ -6,10 +6,10 @@
 (大阪公立大学 杉本キャンパス 理学部E棟大講究室 E408)
 
 ## Speakers
+- Chi-Kang Chang (National Center for Theoretical Sciences (NCTS)) 
 - Wahei Hara (Kavli IPMU, The University of Tokyo)
 - Akihiro Kanemitsu (Tokyo Metropolitan University)
 - Tatsuro Kawakami (Kyoto University)
-- Jie Liu (Academy of Mathematics and Systems Science, Chinese Academy of Sciences (AMSS CAS))
 - Takuzo Okada (Kyushu University)
 - Hirotaka Onuki (The University of Tokyo)
 - Yuta Takahashi (Chuo University)
@@ -20,6 +20,7 @@
 - Taro Yoshino (The University of Tokyo)
 - Guolei Zhong (Institute for Basic Science Center for Complex Geometry (IBS-CCG))
 
+Jie Liu's talk was canceled.
 
 <!-- 
 ## Schedule
@@ -59,9 +60,8 @@ Stable rationality of hypersurfaces in Grassmannian varieties
 ### 18th September (Wednesday)
 1. 10:00--11:00 **Akihiro Kanemitsu (Tokyo Metropolitan University)** <br>
 Mukai pairs and associated K3 surfaces
-2. 11:30--12:30 **Jie Liu (Academy of Mathematics and Systems Science, Chinese
-Academy of Sciences (AMSS CAS))** <br>
-Symplectic singularities arising from the algebra of symmetric tensors
+2. 11:30--12:30 **Chi-Kang Chang (National Center for Theoretical Sciences (NCTS)) ** <br>
+TBA
 3. 14:30--15:30 **Juanyong Wang (Academy of Mathematics and Systems Science,
 Chinese Academy of Sciences (AMSS CAS))** <br>
 An abundance-type result for tangent bundles of smooth Fano varieties
