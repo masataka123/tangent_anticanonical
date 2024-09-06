@@ -61,7 +61,7 @@ Stable rationality of hypersurfaces in Grassmannian varieties
 1. 10:00--11:00 **Akihiro Kanemitsu (Tokyo Metropolitan University)** <br>
 Mukai pairs and associated K3 surfaces
 2. 11:30--12:30 **Chi-Kang Chang (National Center for Theoretical Sciences (NCTS))** <br>
-TBA
+Positivity of anticanonical divisors in algebraic fibre spaces
 3. 14:30--15:30 **Juanyong Wang (Academy of Mathematics and Systems Science,
 Chinese Academy of Sciences (AMSS CAS))** <br>
 An abundance-type result for tangent bundles of smooth Fano varieties
